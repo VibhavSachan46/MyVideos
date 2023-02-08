@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Videos</string>
+    <string name="all_videos">Videos</string>
+    <string name="all_folders">Folders</string>
+    <string name="total_videos">All Videos</string>
+    <string name="total_folders">All Folders</string>
+
+</resources>
